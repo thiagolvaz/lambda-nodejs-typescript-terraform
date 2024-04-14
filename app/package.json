@@ -1,0 +1,15 @@
+{
+  "name": "lambda_tutorial",
+  "version": "1.0.0",
+  "description": "Lambda Function Node.js Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Thiago L Vaz",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
